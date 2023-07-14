@@ -1,0 +1,1266 @@
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll.config
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.pdb
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\csc.exe
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\csc.exe.config
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\csc.rsp
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\csi.exe
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\csi.exe.config
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\csi.rsp
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.AppContext.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.Console.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Http.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Sockets.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.ValueTuple.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe.config
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\vbc.rsp
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\CKFinder.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\Microsoft.Owin.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\Owin.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\CKFinder.pdb
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\Microsoft.Owin.xml
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.xml
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CoreCompileInputs.cache
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CopyComplete
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.pdb
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\DoAn_LapTrinhWeb-nam555555555\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csprojAssemblyReference.cache
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll.config
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.pdb
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\csc.exe
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\csc.exe.config
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\csc.rsp
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\csi.exe
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\csi.exe.config
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\csi.rsp
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.AppContext.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Console.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Http.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Sockets.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.ValueTuple.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe.config
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\vbc.rsp
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\CKFinder.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\Owin.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\CKFinder.pdb
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.xml
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.xml
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csprojAssemblyReference.cache
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CoreCompileInputs.cache
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CopyComplete
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.pdb
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.AssemblyReference.cache
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll.config
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.pdb
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\csc.exe
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\csc.exe.config
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\csc.rsp
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\csi.exe
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\csi.exe.config
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\csi.rsp
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.AppContext.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Console.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Http.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Sockets.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.ValueTuple.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe.config
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\vbc.rsp
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\CKFinder.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\Owin.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\CKFinder.pdb
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.xml
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.xml
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.AssemblyReference.cache
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CoreCompileInputs.cache
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CopyComplete
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.dll
+D:\download\webonlineshop\DoAn_LapTrinhWeb-nam555555555 - Copy\NVTComputer_final\NVTComputerFinal\NVTComputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.pdb
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll.config
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.pdb
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\csc.exe
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\csc.exe.config
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\csc.rsp
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\csi.exe
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\csi.exe.config
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\csi.rsp
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.AppContext.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Console.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Http.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Sockets.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.ValueTuple.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe.config
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\vbc.rsp
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\CKFinder.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\Owin.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\CKFinder.pdb
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.xml
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.xml
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CoreCompileInputs.cache
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CopyComplete
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.dll
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.pdb
+D:\NVTComputer\NVTComputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.AssemblyReference.cache
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll.config
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.pdb
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\csc.exe
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\csc.exe.config
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\csc.rsp
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\csi.exe
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\csi.exe.config
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\csi.rsp
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.AppContext.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.Console.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Http.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Sockets.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.ValueTuple.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe.config
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\vbc.rsp
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\CKFinder.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\Microsoft.Owin.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\Owin.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\CKFinder.pdb
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\Microsoft.Owin.xml
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.xml
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.AssemblyReference.cache
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CoreCompileInputs.cache
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CopyComplete
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.dll
+D:\download\Compressed\NVTComputer_2\NVTComputer_3\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.pdb
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll.config
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.pdb
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.exe
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.exe.config
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.rsp
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.exe
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.exe.config
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.rsp
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.AppContext.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Console.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Http.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Sockets.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.ValueTuple.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe.config
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.rsp
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\CKFinder.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Owin.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\CKFinder.pdb
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.xml
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.xml
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CoreCompileInputs.cache
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CopyComplete
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.pdb
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\log4net.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\log4net.xml
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\PayPal.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\PayPal.xml
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\BouncyCastle.Crypto.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\QRCoder.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\BouncyCastle.Crypto.xml
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Facebook.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Facebook.xml
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Compression.Base.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Licensing.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.XlsIO.Base.dll
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Compression.Base.xml
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Licensing.xml
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.XlsIO.Base.xml
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.Migrations.model2.resources
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.GenerateResource.cache
+D:\githubclone\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.AssemblyReference.cache
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll.config
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.pdb
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.exe
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.exe.config
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.rsp
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.exe
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.exe.config
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.rsp
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.AppContext.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Console.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Http.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Sockets.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.ValueTuple.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe.config
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.rsp
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\BouncyCastle.Crypto.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\CKFinder.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Facebook.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\log4net.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Owin.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\PayPal.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\QRCoder.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Compression.Base.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Licensing.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.XlsIO.Base.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\BouncyCastle.Crypto.xml
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\CKFinder.pdb
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Facebook.xml
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\log4net.xml
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.xml
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.xml
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\PayPal.xml
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Compression.Base.xml
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Licensing.xml
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.XlsIO.Base.xml
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.AssemblyReference.cache
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.Migrations.model2.resources
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.GenerateResource.cache
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CoreCompileInputs.cache
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CopyComplete
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.dll
+D:\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.pdb
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll.config
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.pdb
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\BouncyCastle.Crypto.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\CKFinder.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Facebook.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\log4net.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Owin.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\PayPal.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\QRCoder.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Compression.Base.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Licensing.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.XlsIO.Base.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\BouncyCastle.Crypto.xml
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\CKFinder.pdb
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Facebook.xml
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\log4net.xml
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.xml
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.xml
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\PayPal.xml
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Compression.Base.xml
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Licensing.xml
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.XlsIO.Base.xml
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.Migrations.model2.resources
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.GenerateResource.cache
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CoreCompileInputs.cache
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CopyComplete
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.pdb
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.exe
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.exe.config
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.rsp
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.exe
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.exe.config
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.rsp
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.AppContext.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Console.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Http.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Sockets.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.ValueTuple.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe.config
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.rsp
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\source\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.AssemblyReference.cache
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll.config
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.pdb
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.exe
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.exe.config
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.rsp
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.exe
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.exe.config
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.rsp
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Managed.Core.targets
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.AppContext.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Collections.Immutable.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Console.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Globalization.Calendars.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Http.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Sockets.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Reflection.Metadata.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.ValueTuple.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XmlDocument.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe.config
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.rsp
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe.config
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\BouncyCastle.Crypto.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\CKFinder.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Facebook.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\log4net.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Core.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Owin.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Cookies.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Google.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.OAuth.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Owin.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\PayPal.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\QRCoder.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Compression.Base.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Licensing.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.XlsIO.Base.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\BouncyCastle.Crypto.xml
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\CKFinder.pdb
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Facebook.xml
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\log4net.xml
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Core.xml
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.pdb
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Owin.xml
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.xml
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.xml
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Cookies.xml
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.xml
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Google.xml
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.OAuth.xml
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\PayPal.xml
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Compression.Base.xml
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Licensing.xml
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.XlsIO.Base.xml
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CoreCompileInputs.cache
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CopyComplete
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.dll
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.pdb
+I:\github-clone\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.AssemblyReference.cache
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll.config
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.pdb
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.exe
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.exe.config
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.rsp
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.exe
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.exe.config
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.rsp
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Managed.Core.targets
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.AppContext.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Collections.Immutable.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Console.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Globalization.Calendars.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Http.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Sockets.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Reflection.Metadata.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.ValueTuple.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XmlDocument.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe.config
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.rsp
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe.config
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\BouncyCastle.Crypto.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\CKFinder.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Facebook.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\log4net.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Core.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Owin.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Cookies.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Google.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.OAuth.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Owin.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\PayPal.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\QRCoder.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Compression.Base.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Licensing.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.XlsIO.Base.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\BouncyCastle.Crypto.xml
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\CKFinder.pdb
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Facebook.xml
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\log4net.xml
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Core.xml
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.pdb
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Owin.xml
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.xml
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.xml
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Cookies.xml
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.xml
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Google.xml
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.OAuth.xml
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\PayPal.xml
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Compression.Base.xml
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Licensing.xml
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.XlsIO.Base.xml
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.AssemblyReference.cache
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CoreCompileInputs.cache
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CopyComplete
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.dll
+I:\github-clone\NVTComputer\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.pdb
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll.config
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.pdb
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.exe
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.exe.config
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.rsp
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.exe
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.exe.config
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.rsp
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.AppContext.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Console.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Http.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Sockets.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.ValueTuple.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe.config
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.rsp
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\BouncyCastle.Crypto.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\CKFinder.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Facebook.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\log4net.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Owin.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\PayPal.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\QRCoder.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Compression.Base.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Licensing.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.XlsIO.Base.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\BouncyCastle.Crypto.xml
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\CKFinder.pdb
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Facebook.xml
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\log4net.xml
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.xml
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.xml
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\PayPal.xml
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Compression.Base.xml
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Licensing.xml
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.XlsIO.Base.xml
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.AssemblyReference.cache
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CoreCompileInputs.cache
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CopyComplete
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.dll
+D:\Download\Compressed\NVTComputer_3\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.pdb
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll.config
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.pdb
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.exe
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.exe.config
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csc.rsp
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.exe
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.exe.config
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\csi.rsp
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.AppContext.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Console.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Http.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Sockets.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.ValueTuple.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe.config
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\vbc.rsp
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\BouncyCastle.Crypto.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\CKFinder.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Facebook.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\log4net.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Owin.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\PayPal.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\QRCoder.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Compression.Base.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Licensing.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.XlsIO.Base.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\BouncyCastle.Crypto.xml
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\CKFinder.pdb
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Facebook.xml
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\log4net.xml
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.xml
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.xml
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\PayPal.xml
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Compression.Base.xml
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.Licensing.xml
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\bin\Syncfusion.XlsIO.Base.xml
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.AssemblyReference.cache
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CoreCompileInputs.cache
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CopyComplete
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.dll
+D:\CNPM\NVTComputerFinal\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.pdb
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll.config
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.pdb
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\csc.exe
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\csc.exe.config
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\csc.rsp
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\csi.exe
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\csi.exe.config
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\csi.rsp
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.AppContext.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Console.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Http.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Sockets.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.ValueTuple.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe.config
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\vbc.rsp
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\BouncyCastle.Crypto.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\CKFinder.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Facebook.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\log4net.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Owin.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\PayPal.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\QRCoder.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Syncfusion.Compression.Base.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Syncfusion.Licensing.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Syncfusion.XlsIO.Base.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\BouncyCastle.Crypto.xml
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\CKFinder.pdb
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Facebook.xml
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\log4net.xml
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.xml
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.xml
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\PayPal.xml
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Syncfusion.Compression.Base.xml
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Syncfusion.Licensing.xml
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\bin\Syncfusion.XlsIO.Base.xml
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.Migrations.SHBcomputerMigration.resources
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.GenerateResource.cache
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CoreCompileInputs.cache
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CopyComplete
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.dll
+D:\CNPM\SHBcomputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.pdb
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll.config
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\DoAn_LapTrinhWeb.pdb
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\csc.exe
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\csc.exe.config
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\csc.rsp
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\csi.exe
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\csi.exe.config
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\csi.rsp
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Console.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\vbc.exe.config
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\vbc.rsp
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\BouncyCastle.Crypto.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\CKFinder.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Facebook.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\log4net.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Owin.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\PayPal.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\QRCoder.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Syncfusion.Compression.Base.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Syncfusion.Licensing.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Syncfusion.XlsIO.Base.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\BouncyCastle.Crypto.xml
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\CKFinder.pdb
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Facebook.xml
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\log4net.xml
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.xml
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\PayPal.xml
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Syncfusion.Compression.Base.xml
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Syncfusion.Licensing.xml
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\bin\Syncfusion.XlsIO.Base.xml
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.Migrations.SHBcomputerMigration.resources
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.GenerateResource.cache
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CoreCompileInputs.cache
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.csproj.CopyComplete
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.dll
+C:\Users\Daica\Downloads\Nhom6\SHBcomputer\DoAn_LapTrinhWeb\obj\Debug\DoAn_LapTrinhWeb.pdb
